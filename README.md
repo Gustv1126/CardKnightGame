@@ -32,19 +32,19 @@
 >  1. Need Playable Characters
 >  
 >  2. Need monster pool
->    2.1 UnderEarth
->    2.2 Rage
->    2.3 Tower of Mage
->    2.4 Guardian
->    2.5 Keeper
+>     2.1 UnderEarth
+>     2.2 Rage
+>     2.3 Tower of Mage
+>     2.4 Guardian
+>     2.5 Keeper
 >    
 >  3. Need Map-tile
->    3.1 Green tile
->    3.2 Dark tile
+>     3.1 Green tile
+>     3.2 Dark tile
 >    
 >  4. Need Servant Pool
->    4.1 Normal
->    4.2 Elite
+>     4.1 Normal
+>     4.2 Elite
 >    
 >  5. Need Magic Card Pool
 >  6. Need Treasue Card pool
