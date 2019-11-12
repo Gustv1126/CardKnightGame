@@ -1,8 +1,25 @@
 # CardKnightGame
 Web game 1-year project
 
-Gulp
-Sass
-React Nodejs
 
-MySql with Spring
+## Using Programming Language
+Sass
+Nodejs
+MySql
+Javascript
+Jquery
+
+## Using Framework
+Gulp
+Spring 
+React
+
+
+
+# -Project 
+
+## Card knight
+
+### Setting pool
+Need Playable Characters
+
