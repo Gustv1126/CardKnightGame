@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://github.com/Gustv1126/CardKnightGame/blob/master/title.jpg?raw=true"
-       width="550px" height="300px" title="title" alt="titleimage"></img>
+       width="550px" height="600px" title="title" alt="titleimage"></img>
 </p>
 
 <h1 align="center">Card Knight</h1>
