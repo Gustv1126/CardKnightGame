@@ -1,7 +1,8 @@
 
 
 <p align="center">
-<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fk.kakaocdn.net%2Fdn%2FwVKER%2FbtqzH1RMpKR%2FNY0C7pce3CObkQIUGyT0G1%2Fimg.jpg" width="550px" height="300px" title="title" alt="titleimage"></img>
+  <img src="https://github.com/Gustv1126/CardKnightGame/blob/master/title.jpg?raw=true"
+       width="550px" height="300px" title="title" alt="titleimage"></img>
 </p>
 
 <h1 align="center">Card Knight</h1>
